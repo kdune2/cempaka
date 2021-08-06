@@ -1,6 +1,0 @@
-[Ethash]
-wallet = ETH:0x52f0c5f3ced7528de5cb29a0bhd5c96b4646ds3d
-coin = ETH
-rigName = DEVELOPWITHNITIN
-rigPassword=x
-pool1 = ethash.unmineable.com:3333
